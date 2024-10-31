@@ -12,4 +12,3 @@
 
 
 
-![snake gif](https://github.com/SALAH-EO/SALAH-EO/blob/output/github-contribution-grid-snake.svg)
